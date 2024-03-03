@@ -1,0 +1,5 @@
+feature_save/
+*.png
+*.jpeg
+.idea/
+__pycache__/
